@@ -1,0 +1,2 @@
+2021-07-11 18:05:05,660 - kedro.pipeline.node - ERROR - Node `outliers_node: remove_outliers([house_prices,parameters]) -> [house_prices_no_outliers]` failed with error: 
+'SalePrice'

@@ -1,0 +1,28 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://kedro.readthedocs.io/en/stable/05_data/01_data_catalog.html
+
+house_prices:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/train.csv
+
+house_prices_no_outliers:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/house_prices_no_outliers.csv
+
+y_train:
+  type: pandas.CSVDataSet
+  filepath: data/05_model_input/y_train.csv
+
+house_prices_drop:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/house_prices_drop.csv
+
+house_prices_no_na:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/house_prices_no_na.csv
+
+house_prices_clean:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/house_prices_clean.csv

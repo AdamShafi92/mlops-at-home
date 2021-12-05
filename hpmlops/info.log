@@ -1,0 +1,47 @@
+2021-07-11 14:40:23,615 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 14:40:34,848 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 14:53:21,260 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 14:53:26,102 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 14:53:26,119 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 17:55:52,133 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 17:55:52,260 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 17:55:52,268 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 17:57:32,211 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 17:57:32,329 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 17:57:32,338 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 17:57:58,353 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 17:57:58,478 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 17:57:58,487 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 17:58:34,728 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 17:58:34,846 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 17:58:34,854 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:04:04,584 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:04:04,704 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:04:04,712 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:05:03,685 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:05:03,806 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:05:03,815 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:07:11,255 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:07:11,383 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:07:11,393 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:10:47,631 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:10:47,751 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:10:47,760 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:15:40,497 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:15:40,618 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:15:40,626 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:16:02,465 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:16:02,588 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:16:02,597 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:16:35,704 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:16:35,825 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:16:35,834 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-07-11 18:40:16,940 - root - INFO - Registered CLI hooks from 1 installed plugin(s): kedro-telemetry-0.1.1
+2021-07-11 18:40:17,064 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-07-11 18:40:17,074 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-08-14 19:50:58,679 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-08-14 19:50:58,690 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-11-10 16:59:33,811 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-11-10 16:59:33,829 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
+2021-11-10 17:00:51,621 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2021-11-10 17:00:51,633 - kedro.framework.session.session - WARNING - Unable to git describe /Users/User/Python Projects/mlops/house_prices_mlops/hpmlops
